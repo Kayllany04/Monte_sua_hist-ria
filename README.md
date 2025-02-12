@@ -1,2 +1,2 @@
-# Monte_sua_hist-ria
+# Monte_sua_historia
 Um jogo que estimula a sua criatividade
